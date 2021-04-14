@@ -1,0 +1,15 @@
+export const LOAD_INGREDIENTS = 'LOAD_INGREDIENTS';
+export const ADD_INGREDIENT = 'ADD_INGREDIENT';
+export const REMOVE_INGREDIENT = 'REMOVE_INGREDIENT';
+
+export const PURCHASE_SUCCESS = 'PURCHASE_SUCCESS';
+export const PURCHASE_FAIL = 'PURCHASE_FAIL';
+export const PURCHASE_START = 'PURCHASE_START';
+export const GET_ORDERS = 'GET_ORDERS';
+export const SET_ORDERS = 'SET_ORDERS';
+export const LOADING_ORDERS = 'LOADING_ORDERS';
+
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const LOG_OUT = 'LOG_OUT';
